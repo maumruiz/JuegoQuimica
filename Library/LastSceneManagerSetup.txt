@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GruposFuncionales.unity
+- path: Assets/periodic_table.unity
   isLoaded: 1
   isActive: 1

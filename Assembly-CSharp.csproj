@@ -47,6 +47,11 @@
   <ItemGroup>
      <Compile Include="Assets\code\Draggable.cs" />
      <Compile Include="Assets\code\DropZone.cs" />
+     <Compile Include="Assets\code\GameController.cs" />
+     <Compile Include="Assets\code\InfoMolecula.cs" />
+     <Compile Include="Assets\code\InfoProducto.cs" />
+     <Compile Include="Assets\code\InfoReaccion.cs" />
+     <Compile Include="Assets\code\ReaccionesGameController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
